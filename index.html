@@ -19,11 +19,11 @@
             <ul id="menu">
                 
                 <li>
-                    <a href="#">Contact Us</a>
+                    <a href="#contact-us">Contact Us</a>
                 </li>
 
                 <li>
-                    <a href="#">Sign Up</a>
+                    <a href="#sign-up">Sign Up</a>
                 </li>
 
                 <li>
@@ -33,21 +33,58 @@
             </ul>
         </nav>
     </header>
-    <section>
+    <section id="image-outer">
         <div id="main-image"></div>
+        <div id="cover-text">
+            <h2>Bring a friend and get 10% of Discont!</h2>
+        </div>
+    </section>
+    <br>
+    <section id="about-us">
+        <h2>About Us <i class="far fa-hand-spock"></i></h2>
+        <p>Come to visit us on Portmarnock and will not regreat</p>
+    </section>
+    <br>
+    <section id="sign-up" class="form-section">
+        
+        <form class="signup-form" method="POST" action="https://formdump.codeinstitute.net/">
+            <h2>Sign Up <i class="fas fa-pen-fancy"></i></h2>
+            <label for="fname">First Name</label>
+            <input id="fname" class="text-input" type="text" name="first_name" required />
+            <label for="lname">Last Name</label>
+            <input id="lname" class="text-input" type="text"  name="last_name" required />
+            <label for="phone-number">Phone Number</label>
+            <input id="phone-number" class="text-input" type="text" name="phone_number" required/>
+            <label for="email">Email Address</label>
+            <input id="email" class="text-input" type="email" name="email_address" required/>
+            <input class="join-button"  type="submit" value="Let's Sweat!"/>
+            
+        </form>
     </section>
 
-    <section>
-        About Us
-    </section>
-
-    <section>
-        Sign Up
+    <section id="contact-us"> 
+        <h2>Contact Us <i class="fas fa-phone"></i></h2>
+        <p>Phone Number: (+353) 833324769 / Email: info@condingcrossfit.com</p>
+        <p>The Links, Station Rd, Portmarnock, D13NY89</p>
     </section>
 
     <footer>
-        social medias and etc..
-    </footer>
-
-</body>
-</html>
+        <ul class="social-networks">
+            <li>
+                <a href="https://facebook.com" target="_blank" rel="noopener" aria-label="Visit our Facebook page (open in a new tab)"><i class="fab fa-facebook"></i></a>
+            </li>
+            <li>
+                <a href="https://twitter.com" target="_blank" rel="noopener" aria-label="Visit our Twitter page (open in a new tab)"><i class="fab fa-twitter-square"></i></a>
+            </li>
+            <li>
+                <a href="https://youtube.com" target="_blank" rel="noopener" aria-label="Visit our YouTube page (open in a new tab)"><i class="fab fa-youtube-square"></i></a>
+            </li>
+            <li>
+                <a href="https://instagram.com" target="_blank" rel="noopener" aria-label="Visit our Instagram page (open in a new tab)"><i class="fab fa-instagram"></i></a>
+            </li>
+        </ul>
+    
+    <!--font awesome script-->
+    <script src="https://kit.fontawesome.com/8a874ea643.js" crossorigin="anonymous"></script>
+    </body>
+    </html>
