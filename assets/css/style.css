@@ -1,3 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Roboto:wght@300&display=swap');
+
+* {
+    margin:0;
+    padding:0;
+    border:none;
+}
+
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Quicksand;
+    font-weight: 300;
+    color: gray;
+}
+
+/* heading and logo */
+
+h1, h2 {
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color:black
+}
+
+#logo {
+    float: left;
+    font-size: 270%;
+}
+
+#menu {
+    font-size: 120%;
+    letter-spacing: 3px;
+}
+
+#menu, #logo {
+    line-height: 70px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid grey;
+}
+
+.active {
+    border-bottom: 1px solid grey;
+}
+
+/*My main image*/
+
+#main-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/main-image.jpg') no-repeat center center;
 }
