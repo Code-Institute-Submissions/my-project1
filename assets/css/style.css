@@ -9,7 +9,8 @@
 body {
     font-family: Quicksand;
     font-weight: 300;
-    color: gray;
+    color: black;
+    background-color: antiquewhite;
 }
 
 /* heading and logo */
@@ -23,13 +24,13 @@ h1, h2 {
 
 #logo {
     float: left;
-    font-size: 270%;
+    font-size: 300%;
     margin-left: 30px;
 }
 
 #menu {
-    font-size: 120%;
-    letter-spacing: 3px;
+    font-size: 155%;
+    letter-spacing: 2px;
 }
 
 #menu, #logo {
@@ -75,6 +76,13 @@ h1, h2 {
 
 }
 
+
+#second-image {
+    height: 400px;
+    width: 100%;
+    background: url('../images/second-image.jpg') no-repeat center center;
+}
+
 #cover-text {
     font-size: 150%;
     font-family: Roboto, sans-serif;
@@ -89,6 +97,7 @@ h1, h2 {
     left:150px;
     position:absolute;
 }
+
 
 #about-us {
     font-size: x-large;
@@ -135,7 +144,7 @@ h1, h2 {
 }
 
 .text-input:hover {
-    border-color: darkred;
+    border-color: gray;
 }
 
 .join-button {
@@ -144,16 +153,34 @@ h1, h2 {
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: darkred;
+    background-color: black;
     color: #fafafa;
     display: block;
 }
 
 .join-button:hover {
     background-color: #fafafa;
-    color: darkred;
+    color: black;
 }
 
+.right {
+    float:right;
+    width: 60%;
+    position: right;
+}
+
+/*time table*/
+table {
+	width: 55%;
+    position:relative;
+    
+}
+
+
+th, td {
+	border: 1px solid black;
+	padding: 7px;
+}
 
 #contact-us {
     font-size: x-large;
