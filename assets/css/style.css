@@ -73,14 +73,17 @@ h1, h2 {
     height: 600px;
     width: 100%;
     background: url('../images/main-image.jpg') no-repeat center center;
-    
 }
 
+#photos {
+    display: clear;
+    line-height: 0;
+    column-count: 2;
+    column-gap: 0;
+}
 
-#second-image {
-    height: 400px;
+#photos > img {
     width: 100%;
-    background: url('../images/second-image.jpg') no-repeat center center;
 }
 
 #cover-text {
@@ -188,6 +191,10 @@ table {
 th, td {
 	border: 1px solid black;
 	padding: 7px;
+}
+
+#facilities {
+    font-size: x-large;
 }
 
 #contact-us {
