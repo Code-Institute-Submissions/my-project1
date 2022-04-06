@@ -75,17 +75,6 @@ h1, h2 {
     background: url('../images/main-image.jpg') no-repeat center center;
 }
 
-#photos {
-    display: clear;
-    line-height: 0;
-    column-count: 2;
-    column-gap: 0;
-}
-
-#photos > img {
-    width: 100%;
-}
-
 #cover-text {
     font-size: 150%;
     font-family: Roboto, sans-serif;
@@ -100,7 +89,6 @@ h1, h2 {
     left:150px;
     position:absolute;
 }
-
 
 #about-us {
     font-size: x-large;
@@ -164,8 +152,6 @@ h1, h2 {
     display: block;
     border: 2px solid white;
     border-radius: 35px;
-
-    
     left:0;
     right:100;
 }
@@ -187,7 +173,6 @@ table {
     position:relative;
 }
 
-
 th, td {
 	border: 1px solid black;
 	padding: 7px;
@@ -201,7 +186,6 @@ th, td {
     font-size: x-large;
     text-align: center;
 }
-
 
 /*my footer*/
 footer {
@@ -223,7 +207,6 @@ footer {
     color: #3a3a3a;
 }
 
-
 #photos {
     clear: both;
     line-height: 0;
@@ -234,3 +217,10 @@ footer {
 #photos > img {
     width: 100%;
 }
+
+@media screen and (max-width: 1200px) {}
+
+@media screen and (max-width: 950px) {}
+
+@media screen and (max-width: 800px) {}
+
