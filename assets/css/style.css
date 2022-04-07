@@ -178,10 +178,6 @@ th, td {
 	padding: 7px;
 }
 
-#facilities {
-    font-size: x-large;
-}
-
 #contact-us {
     font-size: x-large;
     text-align: center;
@@ -218,9 +214,18 @@ footer {
     width: 100%;
 }
 
-@media screen and (max-width: 1200px) {}
+@media screen and (max-width: 1200px) {
 
-@media screen and (max-width: 950px) {}
 
-@media screen and (max-width: 800px) {}
+}
+
+@media screen and (max-width: 950px) {
+
+
+}
+
+@media screen and (max-width: 800px) {
+
+
+}
 
