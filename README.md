@@ -67,21 +67,24 @@ Validator Testing:
     - CSS: No errors were found when passing through the official (Jigsaw) validator
     - Lighthouse Feature: ADD INFO LATER(print screen)
 
-<img src="#" alt="lighthouse review image">
+<img src="assets/images/lighthouse.png" alt="lighthouse review image">
 
 UNFIXED BUGS:
 
-IF UNTIL THE END OF THIS PROJECT WE HAVE SOME, ADD HERE.DEPLOYMENT:
-* The site was deployed to GitHub pages. The steps to deploy are as follows:
-    * In the GitHub repository, navigate to the Settings tab
-    * From the source section drop-down menu, select the Master Branch
-    * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here - ADD FINAL PROJECT LINK LATER
+IF UNTIL THE END OF THIS PROJECT WE HAVE SOME, ADD HERE.
+
+DEPLOYMENT:
+
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+- In the GitHub repository, navigate to the Settings tab
+- From the source section drop-down menu, select the Master Branch
+- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+- The live link can be found here - ADD FINAL PROJECT LINK LATER
 
 CREDITS:
 
 * Fonts: Robots and Quicksand from https://fonts.google.com/ 
-* Page Icon: https://iconarchive.com/show/summer-olympics-icons-by-sportsbettingspot/weightlifting-icon.html
+* Page Icon: https://iconarchive.com/
 * Icons of the body’s page: https://fontawesome.com/
 * All photos were took from: https://pxhere.com/
 * This website was inspired on the project Love Running from CODE Institute
