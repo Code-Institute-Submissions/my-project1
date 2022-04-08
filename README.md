@@ -23,7 +23,7 @@ Bring a friend and get 10% of discount:
 
 “Get a discount” always calls people attention, for this reason I decided to add this very small sentence over the main photo of our website. This way people will get curious about “how does it work?” and consequently, ask for more details.
 
-<img src="assets/images/friend-descount.png" alt="bring a friend image">
+<img src="assets/images/friend-discount.png" alt="bring a friend image">
 
 Sign up:
 
@@ -70,9 +70,8 @@ Lighthouse Feature:
 
 <img src="assets/images/lighthouse.png" alt="lighthouse review image">
 
-UNFIXED BUGS:
-
-add bugs here
+To be implemented in the next version:
+- Even after a session with my mentor we were not able to implement our "timetable" on the screen as planed, for this reason I decide to use "display: none" for this feature.
 
 DEPLOYMENT:
 

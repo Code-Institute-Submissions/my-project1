@@ -236,10 +236,4 @@ footer {
     }
 }
 
-    @media screen and (max-width: 1558px) {
-
-        .table {
-            width:65%;
-            display: none;
-        }
-    }
+  
