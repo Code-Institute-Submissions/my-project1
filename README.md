@@ -72,7 +72,7 @@ Lighthouse Feature:
 
 UNFIXED BUGS:
 
-IF UNTIL THE END OF THIS PROJECT WE HAVE SOME, ADD HERE.
+add bugs here
 
 DEPLOYMENT:
 
