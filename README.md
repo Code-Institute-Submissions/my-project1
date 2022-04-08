@@ -65,7 +65,9 @@ Validator Testing:
 
     - HTML: No errors were returned when passing through the official W3C validator
     - CSS: No errors were found when passing through the official (Jigsaw) validator
-    - Lighthouse Feature: ADD INFO LATER(print screen)
+    
+    
+Lighthouse Feature: 
 
 <img src="assets/images/lighthouse.png" alt="lighthouse review image">
 
