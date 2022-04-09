@@ -79,7 +79,8 @@ On our footer, we can find the place’s address, email address, phone number if
 
 <img src="assets/images/lighthouse.png" alt="lighthouse review image">
 <hr>
-To be implemented in the next version:
+
+#### To be implemented in the next version:
 - Even after a session with my mentor we were not able to implement our "timetable" on the screen as planed, for this reason I decide to use "display: none" for this feature.
 <hr>
 
