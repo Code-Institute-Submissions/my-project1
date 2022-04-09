@@ -3,7 +3,7 @@
 This project was created thing about a traditional Crossfit Gym, where people can get fit, does not matter their age or how fit they are at the moment. 
 I also want to highlight all benefits that the place’s facilities offers to your members and their families. As CrossFit is a sport that is much nicer if you practice with many friends, we can not forget to mention our promo “if you bring a friend you have 10% of discount”.
 
-<img src="devices-image.png" alt="devices with website image">
+<img src="assets/images/devices-image.png" alt="devices with website image">
 <hr>
 
 ## FEATURES
